@@ -7,3 +7,9 @@ Anche se alcuni dei concetti più importanti sono introdotti quando necessari, i
 All'interno dei tutorial cercherò di coprire una vasta quantità di materiale, partendo da un'introduzione ai meccanismi base del calcolo su grafi computazionali fino ai modelli più complessi (es., seq2seq), sempre con esempi pratici. Il tutorial è interamente work-in-progress, ma spero di aggiungere almeno un notebook a settimana.
 
 Per qualsiasi commento o richiesta, potete contattarmi in qualsiasi momento a [simone (dot) scardapane (at) uniroma1 (dot) it].
+
+## Elenco dei tutorial
+
+### T0) Concetti base ([Notebook]('./0-Concetti-base.ipynb'))
+Iniziamo introducendo alcuni dei concetti di base di TensorFlow. A partire da essi, alleniamo un semplice modello di regressione lineare.
+**Stato**: da completare
