@@ -10,6 +10,6 @@ Per qualsiasi commento o richiesta, potete contattarmi in qualsiasi momento a [s
 
 ## Elenco dei tutorial
 
-### T0) Concetti base ([Notebook]('./0-Concetti-base.ipynb'))
+### T0) Concetti base ([Notebook]('0-Concetti-base.ipynb'))
 Iniziamo introducendo alcuni dei concetti di base di TensorFlow. A partire da essi, alleniamo un semplice modello di regressione lineare.
 **Stato**: da completare
