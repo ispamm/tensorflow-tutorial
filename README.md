@@ -8,8 +8,11 @@ All'interno dei tutorial cercherò di coprire una vasta quantità di materiale, 
 
 Per qualsiasi commento o richiesta, potete contattarmi in qualsiasi momento a [simone (dot) scardapane (at) uniroma1 (dot) it].
 
+## Visualizzare i tutorial
+I link forniti sotto visualizzano i notebook tramite il servizio [NbViewer](https://nbviewer.jupyter.org/) di Jupyter. In alternativa, è possibile visualizzarli con l'editor di GitHub, ma le equazioni non saranno visualizzate correttamente. Per eseguire i notebook localmente, è sufficiente clonare (o scaricare) questo repository.
+
 ## Elenco dei tutorial
 
-### T0) Concetti base ([Notebook](0-Concetti-base.ipynb))
+### T0) Concetti base ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/0-Concetti-base.ipynb))
 Iniziamo introducendo alcuni dei concetti di base di TensorFlow. A partire da essi, alleniamo un semplice modello di regressione lineare.
-**Stato**: da completare
+**Stato**: completato (in bozza).
