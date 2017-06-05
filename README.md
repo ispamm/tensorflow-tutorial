@@ -14,9 +14,9 @@ I link forniti sotto visualizzano i notebook tramite il servizio [NbViewer](http
 ## Elenco dei tutorial
 
 ### T0) Concetti base ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/0-Concetti-base.ipynb))
-Iniziamo introducendo alcuni dei concetti di base di TensorFlow. A partire da essi, alleniamo un semplice modello di regressione lineare.
-**Stato**: completato (in bozza).
+  + Iniziamo introducendo alcuni dei concetti di base di TensorFlow. A partire da essi, alleniamo un semplice modello di regressione    lineare.
+  **Stato**: completato (in bozza).
 
 ### T1) Reti neurali feedforward in TF ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/1-Reti-neurali-feedforward.ipynb))
-Vediamo come implementare una rete neurale con uno strato nascosto in TF e nel modulo contrib.learn.
-**Stato**: completato (in bozza).
+  + Vediamo come implementare una rete neurale con uno o più strati nascosti in TF e nel modulo contrib.learn.
+  **Stato**: completato (in bozza).
