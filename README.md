@@ -20,3 +20,11 @@ I link forniti sotto visualizzano i notebook tramite il servizio [NbViewer](http
 ### T1) Reti neurali feedforward in TF ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/1-Reti-neurali-feedforward.ipynb))
   + Vediamo come implementare una rete neurale con uno o più strati nascosti in TF e nel modulo contrib.learn.
   **Stato**: completato (in bozza).
+  
+### T2) Reti neurali convolutive ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/2-Reti-neurali-convolutive.ipynb))
+  + Introduciamo le reti neurali convolutive, essenziali nell'elaborazione di immagini. Vediamo come implementarne una in TF con gli elementi del modulo layers. **Stato**: completato (in bozza).
+
+## Materiale di base
+Per la fruizione di questi tutorial, si consiglia una conoscenza di base di machine learning e, possibilmente, del deep learning. Un modo comune di approcciarsi a queste tematiche è il corso [Machine Learning](https://www.coursera.org/learn/machine-learning), tenuto da Andrew Ng su Coursera, seguito da un [corso online sul deep learning](https://www.udacity.com/course/deep-learning--ud730).
+
+Per chi avesse già rudimenti di machine learning, è possibile leggere gratuitamente (in versione HTML) il [libro sul deep learning](http://www.deeplearningbook.org/) recentemente pubblicato da Ian Goodfellow, Yoshua Bengio, ed Aaron Courville.
