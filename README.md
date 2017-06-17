@@ -23,6 +23,9 @@ I link forniti sotto visualizzano i notebook tramite il servizio [NbViewer](http
   
 ### T2) Reti neurali convolutive ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/2-Reti-neurali-convolutive.ipynb))
   + Introduciamo le reti neurali convolutive, essenziali nell'elaborazione di immagini. Vediamo come implementarne una in TF con gli elementi del modulo layers. **Stato**: completato (in bozza).
+  
+### T3) TensorBoard ([Notebook](https://nbviewer.jupyter.org/github/ispamm/tensorflow-tutorial/blob/master/3-TensorBoard.ipynb))
+  + Mostriamo come salvare dati durante la fase di allenamento (incluse le distribuzioni dei pesi), e come visualizzarli con l'ausilio della TensorBoard. **Stato**: completato (in bozza).
 
 ## Materiale di base
 Per la fruizione di questi tutorial, si consiglia una conoscenza di base di machine learning e, possibilmente, del deep learning. Un modo comune di approcciarsi a queste tematiche è il corso [Machine Learning](https://www.coursera.org/learn/machine-learning), tenuto da Andrew Ng su Coursera, seguito da un [corso online sul deep learning](https://www.udacity.com/course/deep-learning--ud730).
